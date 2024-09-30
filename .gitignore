@@ -1,0 +1,11 @@
+# pycache
+__pycache__
+
+# Text Editor
+.idea
+
+# macos
+.DS_Store
+
+# Environments
+.env

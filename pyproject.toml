@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "fastapi-admin-demo"
+version = "0.1.0"
+description = ""
+authors = ["Kittawee Kongpan <kittawee9469@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.115.0"
+uvicorn = "^0.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
